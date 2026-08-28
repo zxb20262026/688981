@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "datetime": "2026-08-28 11:41:23",
+  "datetime": "2026-08-28 11:50:48",
   "mode": "早报 ☀️",
   "smic_a": {
     "name": "中芯国际",
@@ -15,9 +15,9 @@
     "change_pct": 0.18
   },
   "smic_h": {
-    "price": 71.05,
+    "price": 70.95,
     "prev_close": 71.3,
-    "change_pct": -0.351
+    "change_pct": -0.491
   },
   "smic_pe": {
     "pe_ttm": 150.33
@@ -12767,10 +12767,10 @@
     {
       "date": "2026-08-28",
       "open": 71.6,
-      "close": 70.9,
+      "close": 71.0,
       "high": 72.9,
       "low": 70.5,
-      "volume": 20945895.0
+      "volume": 21291395.0
     }
   ],
   "market": {
@@ -13385,7 +13385,7 @@
     "yoy_global": "SMIC 2025年全球市占率约 37-38% (SNE Research)",
     "trend": "国内市占率稳定在44-46%区间，全球龙头地位稳固"
   },
-  "ah_premium": 93.62,
+  "ah_premium": 93.89,
   "ah_history": [
     {
       "date": "2023-08-10",
@@ -18367,12 +18367,12 @@
     {
       "date": "2026-08-28",
       "a_close": 126.56,
-      "h_close": 70.9,
-      "h_cny": 65.23,
-      "premium": 94.03
+      "h_close": 71.0,
+      "h_cny": 65.32,
+      "premium": 93.75
     }
   ],
-  "ah_mean30": 106.26,
+  "ah_mean30": 106.25,
   "ah_7day": [
     {
       "date": "2026-08-20",
@@ -18419,9 +18419,9 @@
     {
       "date": "2026-08-28",
       "a_close": 126.56,
-      "h_close": 70.9,
-      "h_cny": 65.23,
-      "premium": 94.03
+      "h_close": 71.0,
+      "h_cny": 65.32,
+      "premium": 93.75
     }
   ],
   "ah_min": 72.22,
@@ -18536,14 +18536,14 @@
       {
         "name": "中芯国际",
         "a_price": 126.56,
-        "h_price": 71.05,
-        "premium": 93.62,
-        "h_cny": 65.37
+        "h_price": 70.95,
+        "premium": 93.89,
+        "h_cny": 65.27
       }
     ],
     "rank": 15,
     "total": 16,
-    "smic_premium": 93.62,
+    "smic_premium": 93.89,
     "is_extreme": false
   },
   "peg_growth_source": "analyst",
@@ -18861,5 +18861,5 @@
     "core_summary": "PEG 2.91 偏高 · 晶圆产能15.86万/吨 成本压力",
     "vs_industry": "强于行业1.3%"
   },
-  "pushed_at": "2026-08-28 11:41:37"
+  "pushed_at": "2026-08-28 11:51:01"
 }
