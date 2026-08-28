@@ -1,26 +1,26 @@
 {
   "date": "2026-08-28",
-  "datetime": "2026-08-28 08:01:07",
+  "datetime": "2026-08-28 11:41:23",
   "mode": "早报 ☀️",
   "smic_a": {
     "name": "中芯国际",
-    "price": 126.33,
-    "prev_close": 124.15,
-    "open": 124.05,
-    "high": 126.78,
-    "low": 123.51,
-    "volume": 34377690,
-    "amount": 4313773127.0,
-    "change": 2.18,
-    "change_pct": 1.76
+    "price": 126.56,
+    "prev_close": 126.33,
+    "open": 126.33,
+    "high": 128.47,
+    "low": 125.5,
+    "volume": 21297794,
+    "amount": 2707506935.0,
+    "change": 0.23,
+    "change_pct": 0.18
   },
   "smic_h": {
-    "price": 71.3,
-    "prev_close": 69.7,
-    "change_pct": 2.296
+    "price": 71.05,
+    "prev_close": 71.3,
+    "change_pct": -0.351
   },
   "smic_pe": {
-    "pe_ttm": 150.06
+    "pe_ttm": 150.33
   },
   "smic_fund": null,
   "smic_kline": [
@@ -743,6 +743,14 @@
       "high": 126.78,
       "low": 123.51,
       "volume": 34377690.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 126.33,
+      "close": 126.56,
+      "high": 128.47,
+      "low": 125.5,
+      "volume": 21297794.0
     }
   ],
   "smic_kline_long": [
@@ -6745,6 +6753,14 @@
       "high": 126.78,
       "low": 123.51,
       "volume": 34377690.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 126.33,
+      "close": 126.56,
+      "high": 128.47,
+      "low": 125.5,
+      "volume": 21297794.0
     }
   ],
   "hk_kline": [
@@ -12747,20 +12763,28 @@
       "high": 72.25,
       "low": 70.3,
       "volume": 45895527.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 71.6,
+      "close": 70.9,
+      "high": 72.9,
+      "low": 70.5,
+      "volume": 20945895.0
     }
   ],
   "market": {
     "上证指数": {
-      "price": 3956.571,
-      "change_pct": 1.13
+      "price": 3959.639,
+      "change_pct": 0.08
     },
     "沪深300": {
-      "price": 4630.277,
-      "change_pct": 0.86
+      "price": 4625.7336,
+      "change_pct": -0.1
     },
     "科创50": {
-      "price": 1693.4796,
-      "change_pct": 3.77
+      "price": 1681.2543,
+      "change_pct": -0.72
     }
   },
   "materials": {
@@ -12793,118 +12817,118 @@
     }
   },
   "lithium_futures": {
-    "price": 154520.0,
-    "prev_settle": 150140.0,
-    "change_pct": 2.92,
+    "price": 158580.0,
+    "prev_settle": 152080.0,
+    "change_pct": 4.27,
     "name": "碳酸锂连续"
   },
   "upstream": {
     "中微公司": {
       "code": "sh688012",
-      "price": 376.01,
-      "change_pct": 2.16,
+      "price": 371.27,
+      "change_pct": -1.26,
       "periods": {
-        "5日": 3.73,
-        "15日": 2.27,
-        "30日": 7.22
-      },
-      "trend_summary": "稳步上行"
-    },
-    "北方华创": {
-      "code": "sz002371",
-      "price": 718.0,
-      "change_pct": 2.47,
-      "periods": {
-        "5日": 0.5,
-        "15日": -4.52,
-        "30日": 6.06
+        "5日": 3.81,
+        "15日": -4.8,
+        "30日": 8.4
       },
       "trend_summary": "稳步上行，短期反转"
     },
+    "北方华创": {
+      "code": "sz002371",
+      "price": 707.16,
+      "change_pct": -1.51,
+      "periods": {
+        "5日": -0.1,
+        "15日": -6.95,
+        "30日": 4.47
+      },
+      "trend_summary": "横盘震荡"
+    },
     "沪硅产业": {
       "code": "sh688126",
-      "price": 25.22,
-      "change_pct": 4.0,
+      "price": 24.7,
+      "change_pct": -2.06,
       "periods": {
-        "5日": 2.4,
-        "15日": -5.37,
-        "30日": -5.4
+        "5日": -0.12,
+        "15日": -4.52,
+        "30日": -2.37
       },
-      "trend_summary": "持续走弱，短期反转"
+      "trend_summary": "横盘震荡"
     },
     "安集科技": {
       "code": "sh688019",
-      "price": 248.06,
-      "change_pct": 6.1,
+      "price": 244.34,
+      "change_pct": -1.5,
       "periods": {
-        "5日": 2.9,
-        "15日": -1.44,
-        "30日": 3.76
+        "5日": 0.83,
+        "15日": -3.45,
+        "30日": 8.8
       },
-      "trend_summary": "横盘震荡，短期反转"
+      "trend_summary": "稳步上行，短期反转"
     },
     "华大九天": {
       "code": "sz301269",
-      "price": 96.62,
-      "change_pct": 2.46,
+      "price": 97.41,
+      "change_pct": 0.82,
       "periods": {
-        "5日": 1.49,
-        "15日": 2.04,
-        "30日": -0.9
+        "5日": 6.75,
+        "15日": 4.6,
+        "30日": 3.94
       },
-      "trend_summary": "横盘震荡"
+      "trend_summary": "横盘震荡，加速上涨"
     },
     "拓荆科技": {
       "code": "sh688072",
-      "price": 693.0,
-      "change_pct": 2.66,
+      "price": 681.56,
+      "change_pct": -1.65,
       "periods": {
-        "5日": 2.9,
-        "15日": 0.34,
-        "30日": -0.87
+        "5日": -0.38,
+        "15日": -6.38,
+        "30日": 6.99
       },
-      "trend_summary": "横盘震荡"
+      "trend_summary": "稳步上行"
     }
   },
   "competitors": {
     "华虹公司": {
       "code": "sh688347",
-      "price": 252.72,
-      "change_pct": 3.57,
+      "price": 252.26,
+      "change_pct": -0.18,
       "periods": {
-        "5日": 8.36,
-        "15日": -5.8,
-        "30日": -18.21
+        "5日": 10.14,
+        "15日": -4.45,
+        "30日": -23.9
       },
       "trend_summary": "深度回调，短期反转"
     },
     "华润微": {
       "code": "sh688396",
-      "price": 63.0,
-      "change_pct": 9.0,
+      "price": 61.52,
+      "change_pct": -2.35,
       "periods": {
-        "5日": 1.35,
-        "15日": 2.92,
-        "30日": 1.6
+        "5日": 0.49,
+        "15日": 2.5,
+        "30日": 3.34
       },
       "trend_summary": "横盘震荡"
     },
     "士兰微": {
       "code": "sh600460",
-      "price": 34.88,
-      "change_pct": 5.47,
+      "price": 34.46,
+      "change_pct": -1.2,
       "periods": {
-        "5日": -2.81,
-        "15日": 7.16,
-        "30日": 5.35
+        "5日": -3.09,
+        "15日": 7.12,
+        "30日": 15.33
       },
-      "trend_summary": "稳步上行，短期反转"
+      "trend_summary": "强势上涨，短期反转"
     }
   },
   "sectors": {
     "科创芯片": {
-      "price": 4040.0852,
-      "change_pct": 4.55
+      "price": 3993.4856,
+      "change_pct": -1.15
     }
   },
   "news": {
@@ -13109,6 +13133,13 @@
         "content": "中国电力工程顾问集团市场开发事业部副总经理张晨表示，国产的芯片已经爆单了，可能排期会排到一年之后。"
       },
       {
+        "title": "三大存储芯片巨头，开盘下跌",
+        "date": "2026-08-28",
+        "source": "中国证券报",
+        "url": "http://stock.eastmoney.com/a/202608283857354653.html",
+        "content": "8月27日，铠侠发布消息称，计划在日本北部建设一座新的芯片制造工厂，以满足不断增长的人工智能相关存储需求。公司将在北上工厂的厂区内建设公司的第三座工厂“Fab3”，Fab3将建于Fab2南侧，预计将于2029财年投入运营。"
+      },
+      {
         "title": "制度筑基，产业乘风起：芯片设计环节景气度再验证，芯片ETF景顺(159560)布局芯片行业制度红利与产业景气共振机遇",
         "date": "2026-08-27",
         "source": "界面新闻",
@@ -13121,13 +13152,6 @@
         "source": "界面新闻",
         "url": "http://finance.eastmoney.com/a/202608283857210457.html",
         "content": "当地时间8月27日，据报道，知情人士称，Anthropic曾讨论以约70亿美元收购AI芯片初创公司MatX，但随后放弃了该计划。 　　报道称，合并谈判已演变为关于建立合作伙伴关系的讨论。目前尚无法获悉谈判为何不再进行。"
-      },
-      {
-        "title": "867亿元！芯片巨头，出手收购→",
-        "date": "2026-08-28",
-        "source": "央视财经",
-        "url": "http://finance.eastmoney.com/a/202608283857102420.html",
-        "content": "目前，OpenAI、Anthropic等闭源AI巨头正在积极自研AI服务器芯片，试图降低对英伟达硬件的依赖。英伟达高层的判断是：开源模型的繁荣是对冲闭源威胁的最佳防线。开源模型开发者越多、越成功，英伟达的GPU需求就越难被单一闭源势力切断。"
       }
     ]
   },
@@ -13137,62 +13161,62 @@
     "peers": {
       "中芯国际": {
         "code": "sh688981",
-        "price": 126.33,
-        "pe": 150.06,
-        "pb": 6.31,
-        "roe": 3.37,
-        "peg": 6.0,
-        "mcap": 10815.19,
+        "price": 126.56,
+        "pe": 150.33,
+        "pb": 6.32,
+        "roe": 4.2,
+        "peg": 6.01,
+        "mcap": 10834.88,
         "score": "高估"
       },
       "华虹公司": {
         "code": "sh688347",
-        "price": 252.72,
-        "pe": 626.35,
-        "pb": 9.29,
+        "price": 252.26,
+        "pe": 625.21,
+        "pb": 9.27,
         "roe": 1.48,
-        "peg": 25.05,
-        "mcap": 4391.58,
+        "peg": 25.01,
+        "mcap": 4383.59,
         "score": "高估"
       },
       "华润微": {
         "code": "sh688396",
-        "price": 63.0,
-        "pe": 80.14,
-        "pb": 3.56,
+        "price": 61.52,
+        "pe": 78.26,
+        "pb": 3.48,
         "roe": 4.45,
-        "peg": 3.21,
-        "mcap": 836.77,
+        "peg": 3.13,
+        "mcap": 817.12,
         "score": "高估"
       },
       "北方华创": {
         "code": "sz002371",
-        "price": 718.0,
-        "pe": 91.67,
-        "pb": 12.85,
+        "price": 707.16,
+        "pe": 90.28,
+        "pb": 12.66,
         "roe": 14.02,
-        "peg": 3.67,
-        "mcap": 5210.45,
+        "peg": 3.61,
+        "mcap": 5131.78,
         "score": "高估"
       },
       "中微公司": {
         "code": "sh688012",
-        "price": 376.01,
-        "pe": 85.13,
-        "pb": 11.99,
+        "price": 371.27,
+        "pe": 84.06,
+        "pb": 11.84,
         "roe": 14.08,
-        "peg": 3.41,
-        "mcap": 3601.58,
+        "peg": 3.36,
+        "mcap": 3556.18,
         "score": "高估"
       },
       "韦尔股份": {
         "code": "sh603501",
-        "price": 84.54,
-        "pe": 32.84,
-        "pb": 3.27,
+        "price": 83.47,
+        "pe": 32.43,
+        "pb": 3.23,
         "roe": 9.9,
-        "peg": 1.31,
-        "mcap": 1063.26,
+        "peg": 1.3,
+        "mcap": 1049.81,
         "score": "偏高"
       }
     },
@@ -13274,11 +13298,11 @@
     }
   ],
   "financials": {
-    "pe_ttm": 150.06,
-    "pb": 6.31,
-    "roe": 3.37,
-    "mcap": 10815.19,
-    "price": 126.33,
+    "pe_ttm": 150.33,
+    "pb": 6.32,
+    "roe": 4.2,
+    "mcap": 10834.88,
+    "price": 126.56,
     "quarters": [
       {
         "period": "2024Q1",
@@ -13361,7 +13385,7 @@
     "yoy_global": "SMIC 2025年全球市占率约 37-38% (SNE Research)",
     "trend": "国内市占率稳定在44-46%区间，全球龙头地位稳固"
   },
-  "ah_premium": 92.59,
+  "ah_premium": 93.62,
   "ah_history": [
     {
       "date": "2023-08-10",
@@ -18339,17 +18363,17 @@
       "h_close": 71.3,
       "h_cny": 65.6,
       "premium": 92.59
+    },
+    {
+      "date": "2026-08-28",
+      "a_close": 126.56,
+      "h_close": 70.9,
+      "h_cny": 65.23,
+      "premium": 94.03
     }
   ],
-  "ah_mean30": 107.28,
+  "ah_mean30": 106.26,
   "ah_7day": [
-    {
-      "date": "2026-08-19",
-      "a_close": 128.01,
-      "h_close": 73.0,
-      "h_cny": 67.16,
-      "premium": 90.6
-    },
     {
       "date": "2026-08-20",
       "a_close": 125.5,
@@ -18391,6 +18415,13 @@
       "h_close": 71.3,
       "h_cny": 65.6,
       "premium": 92.59
+    },
+    {
+      "date": "2026-08-28",
+      "a_close": 126.56,
+      "h_close": 70.9,
+      "h_cny": 65.23,
+      "premium": 94.03
     }
   ],
   "ah_min": 72.22,
@@ -18399,142 +18430,142 @@
     "peers": [
       {
         "name": "招商银行",
-        "a_price": 39.58,
-        "h_price": 49.42,
-        "premium": -12.95,
-        "h_cny": 45.47
+        "a_price": 39.36,
+        "h_price": 49.52,
+        "premium": -13.61,
+        "h_cny": 45.56
       },
       {
         "name": "潍柴动力",
-        "a_price": 26.99,
-        "h_price": 32.12,
-        "premium": -8.66,
-        "h_cny": 29.55
+        "a_price": 27.39,
+        "h_price": 31.6,
+        "premium": -5.79,
+        "h_cny": 29.07
       },
       {
         "name": "紫金矿业",
-        "a_price": 34.57,
-        "h_price": 38.08,
-        "premium": -1.32,
-        "h_cny": 35.03
+        "a_price": 34.63,
+        "h_price": 37.66,
+        "premium": -0.05,
+        "h_cny": 34.65
       },
       {
         "name": "中国平安",
-        "a_price": 55.87,
-        "h_price": 57.65,
-        "premium": 5.34,
-        "h_cny": 53.04
+        "a_price": 55.71,
+        "h_price": 57.2,
+        "premium": 5.86,
+        "h_cny": 52.62
       },
       {
         "name": "比亚迪",
-        "a_price": 91.49,
-        "h_price": 92.6,
-        "premium": 7.39,
-        "h_cny": 85.19
-      },
-      {
-        "name": "福耀玻璃",
-        "a_price": 56.8,
-        "h_price": 56.15,
-        "premium": 9.95,
-        "h_cny": 51.66
+        "a_price": 92.26,
+        "h_price": 91.25,
+        "premium": 9.9,
+        "h_cny": 83.95
       },
       {
         "name": "海螺水泥",
-        "a_price": 18.02,
-        "h_price": 17.7,
-        "premium": 10.66,
-        "h_cny": 16.28
+        "a_price": 18.21,
+        "h_price": 17.94,
+        "premium": 10.33,
+        "h_cny": 16.5
       },
       {
-        "name": "工商银行",
-        "a_price": 7.82,
-        "h_price": 7.545,
-        "premium": 12.66,
-        "h_cny": 6.94
+        "name": "福耀玻璃",
+        "a_price": 56.94,
+        "h_price": 55.2,
+        "premium": 12.12,
+        "h_cny": 50.78
       },
       {
         "name": "中国神华",
-        "a_price": 47.8,
-        "h_price": 45.02,
-        "premium": 15.41,
-        "h_cny": 41.42
+        "a_price": 47.39,
+        "h_price": 45.72,
+        "premium": 12.67,
+        "h_cny": 42.06
+      },
+      {
+        "name": "工商银行",
+        "a_price": 7.84,
+        "h_price": 7.455,
+        "premium": 14.31,
+        "h_cny": 6.86
       },
       {
         "name": "中国石油",
-        "a_price": 11.08,
-        "h_price": 9.92,
-        "premium": 21.41,
-        "h_cny": 9.13
+        "a_price": 11.14,
+        "h_price": 9.97,
+        "premium": 21.45,
+        "h_cny": 9.17
       },
       {
         "name": "建设银行",
-        "a_price": 10.57,
-        "h_price": 9.215,
-        "premium": 24.68,
-        "h_cny": 8.48
+        "a_price": 10.61,
+        "h_price": 9.135,
+        "premium": 26.25,
+        "h_cny": 8.4
       },
       {
         "name": "中国中车",
-        "a_price": 6.21,
-        "h_price": 5.27,
-        "premium": 28.08,
-        "h_cny": 4.85
+        "a_price": 6.19,
+        "h_price": 5.3,
+        "premium": 26.95,
+        "h_cny": 4.88
       },
       {
         "name": "青岛啤酒",
-        "a_price": 50.99,
-        "h_price": 42.86,
-        "premium": 29.31,
-        "h_cny": 39.43
+        "a_price": 51.2,
+        "h_price": 41.38,
+        "premium": 34.49,
+        "h_cny": 38.07
       },
       {
         "name": "中国中铁",
-        "a_price": 4.41,
-        "h_price": 3.45,
-        "premium": 38.94,
+        "a_price": 4.43,
+        "h_price": 3.445,
+        "premium": 39.77,
         "h_cny": 3.17
       },
       {
         "name": "中芯国际",
-        "a_price": 126.33,
+        "a_price": 126.56,
         "h_price": 71.3,
-        "premium": 92.59,
+        "premium": 92.94,
         "h_cny": 65.6
       },
       {
         "name": "中芯国际",
-        "a_price": 126.33,
-        "h_price": 69.7,
-        "premium": 97.01,
-        "h_cny": 64.12
+        "a_price": 126.56,
+        "h_price": 71.05,
+        "premium": 93.62,
+        "h_cny": 65.37
       }
     ],
     "rank": 15,
     "total": 16,
-    "smic_premium": 92.59,
+    "smic_premium": 93.62,
     "is_extreme": false
   },
   "peg_growth_source": "analyst",
   "peg_growth_rate": 51.7,
-  "peg": 2.9,
+  "peg": 2.91,
   "peg_signal": {
     "text": "偏高区间 ⚠️",
     "color": "#f85149",
     "level": "sell"
   },
-  "upstream_avg_change": 3.31,
-  "competitor_avg_change": 6.01,
+  "upstream_avg_change": -1.19,
+  "competitor_avg_change": -1.24,
   "summaries": {
     "mas": {
-      "MA5": 123.17,
-      "MA20": 126.14,
-      "MA60": 137.85
+      "MA5": 123.52,
+      "MA20": 126.27,
+      "MA60": 137.72
     },
     "ma60_dist": {
-      "value": 137.85,
-      "dist_pct": -8.36,
-      "text": "距MA60 -8.36%",
+      "value": 137.72,
+      "dist_pct": -8.1,
+      "text": "距MA60 -8.10%",
       "near": false
     },
     "streak": {
@@ -18543,30 +18574,30 @@
       "direction": "涨",
       "text": "连涨1日 累计+0.0%"
     },
-    "chg_5d": 1.23,
-    "chg_10d": -4.92,
-    "chg_20d": 1.89,
+    "chg_5d": 4.96,
+    "chg_10d": -7.46,
+    "chg_20d": 8.64,
     "volume_ratio": {
-      "ratio": 0.94,
-      "text": "缩量0.9x"
+      "ratio": 0.61,
+      "text": "缩量0.6x"
     },
     "vs_market": {
-      "text": "跑赢大盘 (+1.8% vs +1.13%)",
+      "text": "跑赢大盘 (+0.2% vs +0.08%)",
       "type": "outperform",
-      "diff": 0.63
+      "diff": 0.1
     },
     "ah": {
       "level": "extreme_premium",
-      "text": "A股溢价港股93% 偏高"
+      "text": "A股溢价港股94% 偏高"
     },
     "peg": {
-      "value": 2.9,
-      "target_price": 43.52,
-      "distance_pct": -65.55,
+      "value": 2.91,
+      "target_price": 43.53,
+      "distance_pct": -65.61,
       "growth_rate": 51.7,
       "growth_source": "分析师一致预期 (51.7%)",
       "signal": "sell",
-      "text": "PEG=2.90 偏高 距买点差-65.5%"
+      "text": "PEG=2.91 偏高 距买点差-65.6%"
     },
     "target_pe": {
       "value": 50,
@@ -18621,9 +18652,9 @@
       "_eps": 0.84
     },
     "pe": {
-      "value": 150.06,
+      "value": 150.33,
       "level": "高",
-      "text": "PE=150.1x 高"
+      "text": "PE=150.3x 高"
     },
     "fund": {
       "text": "数据暂缺",
@@ -18631,44 +18662,31 @@
       "five_day": 0
     },
     "lithium": {
-      "price": 154520.0,
-      "price_wan": 15.45,
-      "delta_wan": 7.95,
+      "price": 158580.0,
+      "price_wan": 15.86,
+      "delta_wan": 8.36,
       "impact": "成本压力",
-      "text": "晶圆产能15.5万/吨 成本压力"
+      "text": "晶圆产能15.9万/吨 成本压力"
     },
-    "upstream_alerts": [
-      {
-        "name": "安集科技",
-        "change": 6.1,
-        "text": "安集科技 +6.1%"
-      }
-    ],
+    "upstream_alerts": [],
     "amount": {
-      "value": 43.13773127,
+      "value": 27.07506935,
       "level": "正常",
-      "text": "成交额43亿 正常"
+      "text": "成交额27亿 正常"
     },
     "industry": {
       "name": "科创芯片",
-      "change_pct": 4.55,
-      "text": "科创芯片 +4.5%"
+      "change_pct": -1.15,
+      "text": "科创芯片 -1.1%"
     },
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 2.90 偏高 · 晶圆产能15.45万/吨 成本压力",
-    "vs_industry": "弱于行业2.8%"
+    "core_summary": "PEG 2.91 偏高 · 晶圆产能15.86万/吨 成本压力",
+    "vs_industry": "强于行业1.3%"
   },
   "week_review": {
     "days": [
-      {
-        "date": "2026-08-21",
-        "close": 124.8,
-        "change_pct": -0.56,
-        "fund_net": null,
-        "events": "—"
-      },
       {
         "date": "2026-08-24",
         "close": 120.58,
@@ -18695,28 +18713,35 @@
         "close": 126.33,
         "change_pct": 1.76,
         "fund_net": null,
-        "events": "强势上涨，盘中触及关键位"
+        "events": "强势上涨"
+      },
+      {
+        "date": "2026-08-28",
+        "close": 126.56,
+        "change_pct": 0.18,
+        "fund_net": null,
+        "events": "窄幅横盘"
       }
     ],
     "total": {
-      "close": 126.33,
-      "week_chg": 1.23,
+      "close": 126.56,
+      "week_chg": 4.96,
       "week_fund": 0
     },
-    "summary": "本周SMIC累计上涨1.2%，3天下跌。\n\n每日涨跌: -0.6% → -3.4% → -0.5% → +3.5% → +1.8%\n\n📉 好消息是跌幅在收窄（前半周均值-2.0% → 后半周+1.6%），抛压可能接近尾声。\n\n📊 宁德跑赢大盘（周+1.2% vs 上证+1.1%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=150.1x，PEG=2.90，估值偏高，需注意风险。\n\n📐 MA60=¥138，距MA60还有8.4%距离，下方有支撑。\n\n⛏️ 晶圆产能15.5万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
-    "trend_desc": "偏弱震荡，卖压占优",
+    "summary": "本周SMIC累计上涨5.0%，2天下跌。\n\n每日涨跌: -3.4% → -0.5% → +3.5% → +1.8% → +0.2%\n\n📉 好消息是跌幅在收窄（前半周均值-1.9% → 后半周+1.8%），抛压可能接近尾声。\n\n📊 宁德跑赢大盘（周+5.0% vs 上证+0.1%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=150.3x，PEG=2.91，估值偏高，需注意风险。\n\n📐 MA60=¥138，距MA60还有8.1%距离，下方有支撑。\n\n⛏️ 晶圆产能15.9万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
+    "trend_desc": "偏强震荡，买盘积极",
     "fund_desc": "主力资金基本平衡"
   },
   "summary": {
     "mas": {
-      "MA5": 123.17,
-      "MA20": 126.14,
-      "MA60": 137.85
+      "MA5": 123.52,
+      "MA20": 126.27,
+      "MA60": 137.72
     },
     "ma60_dist": {
-      "value": 137.85,
-      "dist_pct": -8.36,
-      "text": "距MA60 -8.36%",
+      "value": 137.72,
+      "dist_pct": -8.1,
+      "text": "距MA60 -8.10%",
       "near": false
     },
     "streak": {
@@ -18725,30 +18750,30 @@
       "direction": "涨",
       "text": "连涨1日 累计+0.0%"
     },
-    "chg_5d": 1.23,
-    "chg_10d": -4.92,
-    "chg_20d": 1.89,
+    "chg_5d": 4.96,
+    "chg_10d": -7.46,
+    "chg_20d": 8.64,
     "volume_ratio": {
-      "ratio": 0.94,
-      "text": "缩量0.9x"
+      "ratio": 0.61,
+      "text": "缩量0.6x"
     },
     "vs_market": {
-      "text": "跑赢大盘 (+1.8% vs +1.13%)",
+      "text": "跑赢大盘 (+0.2% vs +0.08%)",
       "type": "outperform",
-      "diff": 0.63
+      "diff": 0.1
     },
     "ah": {
       "level": "extreme_premium",
-      "text": "A股溢价港股93% 偏高"
+      "text": "A股溢价港股94% 偏高"
     },
     "peg": {
-      "value": 2.9,
-      "target_price": 43.52,
-      "distance_pct": -65.55,
+      "value": 2.91,
+      "target_price": 43.53,
+      "distance_pct": -65.61,
       "growth_rate": 51.7,
       "growth_source": "分析师一致预期 (51.7%)",
       "signal": "sell",
-      "text": "PEG=2.90 偏高 距买点差-65.5%"
+      "text": "PEG=2.91 偏高 距买点差-65.6%"
     },
     "target_pe": {
       "value": 50,
@@ -18803,9 +18828,9 @@
       "_eps": 0.84
     },
     "pe": {
-      "value": 150.06,
+      "value": 150.33,
       "level": "高",
-      "text": "PE=150.1x 高"
+      "text": "PE=150.3x 高"
     },
     "fund": {
       "text": "数据暂缺",
@@ -18813,34 +18838,28 @@
       "five_day": 0
     },
     "lithium": {
-      "price": 154520.0,
-      "price_wan": 15.45,
-      "delta_wan": 7.95,
+      "price": 158580.0,
+      "price_wan": 15.86,
+      "delta_wan": 8.36,
       "impact": "成本压力",
-      "text": "晶圆产能15.5万/吨 成本压力"
+      "text": "晶圆产能15.9万/吨 成本压力"
     },
-    "upstream_alerts": [
-      {
-        "name": "安集科技",
-        "change": 6.1,
-        "text": "安集科技 +6.1%"
-      }
-    ],
+    "upstream_alerts": [],
     "amount": {
-      "value": 43.13773127,
+      "value": 27.07506935,
       "level": "正常",
-      "text": "成交额43亿 正常"
+      "text": "成交额27亿 正常"
     },
     "industry": {
       "name": "科创芯片",
-      "change_pct": 4.55,
-      "text": "科创芯片 +4.5%"
+      "change_pct": -1.15,
+      "text": "科创芯片 -1.1%"
     },
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 2.90 偏高 · 晶圆产能15.45万/吨 成本压力",
-    "vs_industry": "弱于行业2.8%"
+    "core_summary": "PEG 2.91 偏高 · 晶圆产能15.86万/吨 成本压力",
+    "vs_industry": "强于行业1.3%"
   },
-  "pushed_at": "2026-08-28 08:01:20"
+  "pushed_at": "2026-08-28 11:41:37"
 }
