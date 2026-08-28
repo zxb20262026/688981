@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "datetime": "2026-08-28 11:50:48",
+  "datetime": "2026-08-28 12:10:13",
   "mode": "早报 ☀️",
   "smic_a": {
     "name": "中芯国际",
@@ -12770,7 +12770,7 @@
       "close": 71.0,
       "high": 72.9,
       "low": 70.5,
-      "volume": 21291395.0
+      "volume": 21479395.0
     }
   ],
   "market": {
@@ -13221,52 +13221,133 @@
       }
     },
     "pe_bands": {
-      "清仓区": {
-        "pe": 15,
-        "price": 13.0,
+      "低估区": {
+        "pe": 60,
+        "price": 51.0,
         "color": "#3fb950"
       },
-      "止损区": {
-        "pe": 18,
-        "price": 15.0,
+      "偏低区": {
+        "pe": 90,
+        "price": 76.0,
         "color": "#58a6ff"
       },
-      "保守区": {
-        "pe": 21,
-        "price": 18.0,
-        "color": "#8b949e"
-      },
       "合理区": {
-        "pe": 25,
-        "price": 21.0,
+        "pe": 120,
+        "price": 101.0,
         "color": "#d29922"
       },
       "偏高区": {
-        "pe": 30,
-        "price": 25.0,
+        "pe": 150,
+        "price": 126.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 180,
+        "price": 152.0,
         "color": "#f85149"
       },
       "泡沫区": {
-        "pe": 35,
-        "price": 29.0,
+        "pe": 220,
+        "price": 185.0,
         "color": "#f85149"
       },
-      "_current": "泡沫区",
+      "_current": "高估区",
       "_eps": 0.84
     },
     "institution": {
-      "buy": 9,
-      "overweight": 2,
+      "buy": 15,
+      "overweight": 3,
       "neutral": 0,
       "sell": 0,
-      "target_avg": 520.0,
+      "target_avg": 125.0,
       "dividend_rate": 1.2,
       "dividend_yield": 0.38
     }
   },
   "week_flow": [],
-  "analyst_consensus": null,
-  "analyst_targets": null,
+  "analyst_consensus": {
+    "periods": [
+      {
+        "window": "1月内",
+        "rating": "买入",
+        "rating_num": 4.833333333333,
+        "org_num": 6,
+        "buy_num": 5,
+        "add_num": 1,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "2月内",
+        "rating": "买入",
+        "rating_num": 4.833333333333,
+        "org_num": 6,
+        "buy_num": 5,
+        "add_num": 1,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "3月内",
+        "rating": "买入",
+        "rating_num": 4.857142857143,
+        "org_num": 7,
+        "buy_num": 6,
+        "add_num": 1,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "6月内",
+        "rating": "买入",
+        "rating_num": 4.833333333333,
+        "org_num": 12,
+        "buy_num": 10,
+        "add_num": 2,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "1年内",
+        "rating": "买入",
+        "rating_num": 4.833333333333,
+        "org_num": 18,
+        "buy_num": 15,
+        "add_num": 3,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      }
+    ],
+    "latest": {
+      "window": "1月内",
+      "rating": "买入",
+      "rating_num": 4.833333333333,
+      "org_num": 6,
+      "buy_num": 5,
+      "add_num": 1,
+      "neutral_num": null,
+      "reduce_num": null,
+      "sale_num": null
+    }
+  },
+  "analyst_targets": {
+    "eps_curr": 0.588797915999,
+    "eps_next": 0.893,
+    "eps_far": 1.117,
+    "target_low": 89.0,
+    "target_mid": 125.0,
+    "target_high": 161.0,
+    "implied_pe": 147.1,
+    "avg": 131.0,
+    "high": 161.0,
+    "low": 89.0,
+    "count": 9
+  },
   "analyst_eps": [
     {
       "year": 2025,
@@ -18618,37 +18699,37 @@
       "note": "MA60为中长期趋势生命线，跌破3%视为逻辑破坏"
     },
     "pe_bands": {
-      "清仓区": {
-        "pe": 15,
-        "price": 13.0,
+      "低估区": {
+        "pe": 60,
+        "price": 51.0,
         "color": "#3fb950"
       },
-      "止损区": {
-        "pe": 18,
-        "price": 15.0,
+      "偏低区": {
+        "pe": 90,
+        "price": 76.0,
         "color": "#58a6ff"
       },
-      "保守区": {
-        "pe": 21,
-        "price": 18.0,
-        "color": "#8b949e"
-      },
       "合理区": {
-        "pe": 25,
-        "price": 21.0,
+        "pe": 120,
+        "price": 101.0,
         "color": "#d29922"
       },
       "偏高区": {
-        "pe": 30,
-        "price": 25.0,
+        "pe": 150,
+        "price": 126.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 180,
+        "price": 152.0,
         "color": "#f85149"
       },
       "泡沫区": {
-        "pe": 35,
-        "price": 29.0,
+        "pe": 220,
+        "price": 185.0,
         "color": "#f85149"
       },
-      "_current": "泡沫区",
+      "_current": "高估区",
       "_eps": 0.84
     },
     "pe": {
@@ -18794,37 +18875,37 @@
       "note": "MA60为中长期趋势生命线，跌破3%视为逻辑破坏"
     },
     "pe_bands": {
-      "清仓区": {
-        "pe": 15,
-        "price": 13.0,
+      "低估区": {
+        "pe": 60,
+        "price": 51.0,
         "color": "#3fb950"
       },
-      "止损区": {
-        "pe": 18,
-        "price": 15.0,
+      "偏低区": {
+        "pe": 90,
+        "price": 76.0,
         "color": "#58a6ff"
       },
-      "保守区": {
-        "pe": 21,
-        "price": 18.0,
-        "color": "#8b949e"
-      },
       "合理区": {
-        "pe": 25,
-        "price": 21.0,
+        "pe": 120,
+        "price": 101.0,
         "color": "#d29922"
       },
       "偏高区": {
-        "pe": 30,
-        "price": 25.0,
+        "pe": 150,
+        "price": 126.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 180,
+        "price": 152.0,
         "color": "#f85149"
       },
       "泡沫区": {
-        "pe": 35,
-        "price": 29.0,
+        "pe": 220,
+        "price": 185.0,
         "color": "#f85149"
       },
-      "_current": "泡沫区",
+      "_current": "高估区",
       "_eps": 0.84
     },
     "pe": {
@@ -18861,5 +18942,5 @@
     "core_summary": "PEG 2.91 偏高 · 晶圆产能15.86万/吨 成本压力",
     "vs_industry": "强于行业1.3%"
   },
-  "pushed_at": "2026-08-28 11:51:01"
+  "pushed_at": "2026-08-28 12:10:26"
 }
